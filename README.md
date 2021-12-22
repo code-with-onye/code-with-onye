@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-onye" alt="code-with-onye" /></a> </p>
 
-- 🔭 I’m currently working on **Facebook Clone**
+- 🔭 I’m currently working on **NFT Marketplace**
 
 - 🌱 I’m currently learning **Express ,Next Js and Devops**
 
