@@ -3,15 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-onye" alt="code-with-onye" /></a> </p>
 
-- 🔭 I’m currently working on **Dani Assistant**
+- 🔭 I’m currently working on **Side Project**
 
-- 🌱 I’m currently learning **LLM, AI, Langchain**
+- 🌱 I’m currently learning **Express, GO and Devops**
 
-- 👨‍💻 All of my projects are available at [https://onye-portfolio.web.app/](https://onye-portfolio.web.app/)
+- 💬 Ask me about **react, javascript, node, express, nextjs**
 
-- 💬 Ask me about **react, javascript, node**
-
-- 📫 How to reach me **onyemachitrust@gmail.com**
+- 📫 How to reach me **ezukstrust@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
