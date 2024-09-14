@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=code-with-onye" alt="code-with-onye" /></a> </p>
 
-- 🔭 I’m currently working on **Side Project**
+- 🔭 I’m currently working on **lora-auth** and **awesome-hooks**
 
-- 🌱 I’m currently learning **Express, GO and Devops**
+- 🌱 I’m currently learning **GO and Devops**
 
-- 💬 Ask me about **react, javascript, node, express, nextjs**
+- 💬 Ask me about **react, javascript, typescript, node, express, nextjs**
 
 - 📫 How to reach me **ezukstrust@gmail.com**
 
